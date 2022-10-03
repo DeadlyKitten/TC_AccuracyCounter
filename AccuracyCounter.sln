@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccuracyCounter", "AccuracyCounter\AccuracyCounter.csproj", "{1F8A874D-846B-4889-BE96-F5FFB64C74F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F8A874D-846B-4889-BE96-F5FFB64C74F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8A874D-846B-4889-BE96-F5FFB64C74F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8A874D-846B-4889-BE96-F5FFB64C74F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8A874D-846B-4889-BE96-F5FFB64C74F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE90AB49-1A82-43A0-A560-6EA8A2390676}
+	EndGlobalSection
+EndGlobal
